@@ -6,31 +6,31 @@ An intelligent multi-tool AI agent built with Streamlit.
 
 
 
-\## 🚀 Features
+## 🚀 Features
 
-\- Summarization
+- Summarization
 
-\- Task extraction
+- Task extraction
 
-\- Daily planning
+- Daily planning
 
-\- Calculator
+- Calculator
 
-\- Multi-step AI agent
-
-
-
-\## 🛠️ Tech Stack
-
-\- Python
-
-\- Streamlit
-
-\- OpenAI / Groq / Gemini
+- Multi-step AI agent
 
 
 
-\## ▶️ Run
+## 🛠️ Tech Stack
+
+- Python
+
+- Streamlit
+
+- OpenAI / Groq / Gemini
+
+
+
+## ▶️ Run
 
 
 
